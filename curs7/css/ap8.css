@@ -1,0 +1,14 @@
+section{
+    padding: 20px;
+    border: 10px solid;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-right: 20px;
+    margin-right: 20px;
+   
+}
+#div2{
+    float: right;
+    width: 10px;
+    max-width: 10px;
+}

@@ -1,0 +1,25 @@
+table {
+    text-align: center;
+    margin: auto;
+    width: 350px;
+}
+td{
+    padding: 5px;
+
+}
+tr:nth-child(even) {
+    background-color: fuchsia;
+}
+tr:nth-child(odd) {
+    background-color: greenyellow;
+}
+tfoot>tr:nth-child(1) {
+    background-color: aqua;
+    color: blueviolet;
+}
+tfoot> tr:nth-child(2) {
+    background-color: gold;
+    color: blue;
+}
+    
+
